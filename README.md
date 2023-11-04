@@ -1,2 +1,2 @@
 # CC_Number_Validater
-A python program that checks the validity of a Credit Card and the brand using Luhn's Algorihtim
+A python program to differentiate credit card numbers validity and brand using Luhn's Algorihtim
