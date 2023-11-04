@@ -1,6 +1,6 @@
 def main():
     try:
-        cc_number = int(input("Card Number: "))
+        cc_number = str(int(input("Card Number: ")))
         if not 13 <= len(cc_number) <= 16:
             print("INVALID")
         elif not checksum(cc_number):
