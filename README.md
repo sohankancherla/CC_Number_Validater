@@ -1,4 +1,4 @@
-# CC_Number_Validater
+# CC Number Validater
 
 ## Project Description
 
